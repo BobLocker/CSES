@@ -12,6 +12,7 @@
         <module>MissingNumber</module>
         <module>core</module>
         <module>WeirdAlgorithm</module>
+        <module>Repetitions</module>
     </modules>
 
     <properties>
