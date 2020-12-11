@@ -15,6 +15,7 @@
         <module>Repetitions</module>
         <module>IncreasingArray</module>
         <module>Permutations</module>
+        <module>NumberSpiral</module>
     </modules>
 
     <properties>
