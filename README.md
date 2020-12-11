@@ -6,6 +6,7 @@
    * [Missing Number](./MissingNumber)
    * [Repetitions](./Repetitions)
    * [Increasing Array](./IncreasingArray)
+   * [Permutations](./Permutations)
 
 For more information about Code Submission Evaluation System (CSES)
 see [https://cses.fi](https://cses.fi). 

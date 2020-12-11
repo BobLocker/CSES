@@ -14,6 +14,7 @@
         <module>WeirdAlgorithm</module>
         <module>Repetitions</module>
         <module>IncreasingArray</module>
+        <module>Permutations</module>
     </modules>
 
     <properties>
