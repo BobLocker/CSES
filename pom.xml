@@ -13,6 +13,7 @@
         <module>core</module>
         <module>WeirdAlgorithm</module>
         <module>Repetitions</module>
+        <module>IncreasingArray</module>
     </modules>
 
     <properties>

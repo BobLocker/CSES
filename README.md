@@ -5,6 +5,7 @@
    * [Weird Algorithm](./WeirdAlgorithm) 
    * [Missing Number](./MissingNumber)
    * [Repetitions](./Repetitions)
+   * [Increasing Array](./IncreasingArray)
 
 For more information about Code Submission Evaluation System (CSES)
 see [https://cses.fi](https://cses.fi). 
