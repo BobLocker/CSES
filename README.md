@@ -13,6 +13,9 @@
    * [Trailing Zeros](./TrailingZeros)
    * [Coin Piles](./CoinPiles)
    * [Palindrome Reorder](./PalindromeReorder)
+2. Sorting and Searching
+   * [Distinct Numbers](./DistinctNumbers)
+
 
 For more information about Code Submission Evaluation System (CSES)
 see [https://cses.fi](https://cses.fi). 

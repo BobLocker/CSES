@@ -21,6 +21,7 @@
         <module>TrailingZeros</module>
         <module>CoinPiles</module>
         <module>PalindromeReorder</module>
+        <module>DistinctNumbers</module>
     </modules>
 
     <properties>
