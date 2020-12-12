@@ -18,6 +18,7 @@
         <module>NumberSpiral</module>
         <module>TwoSets</module>
         <module>BitStrings</module>
+        <module>TrailingZeros</module>
     </modules>
 
     <properties>
