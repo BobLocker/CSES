@@ -20,6 +20,7 @@
         <module>BitStrings</module>
         <module>TrailingZeros</module>
         <module>CoinPiles</module>
+        <module>PalindromeReorder</module>
     </modules>
 
     <properties>

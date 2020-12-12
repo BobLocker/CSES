@@ -12,6 +12,7 @@
    * [Bit Strings](./BitStrings)
    * [Trailing Zeros](./TrailingZeros)
    * [Coin Piles](./CoinPiles)
+   * [Palindrome Reorder](./PalindromeReorder)
 
 For more information about Code Submission Evaluation System (CSES)
 see [https://cses.fi](https://cses.fi). 
