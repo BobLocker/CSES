@@ -8,6 +8,7 @@
    * [Increasing Array](./IncreasingArray)
    * [Permutations](./Permutations)
    * [NumberSpiral](./NumberSpiral)
+   * [Two Sets](./TwoSets)
 
 For more information about Code Submission Evaluation System (CSES)
 see [https://cses.fi](https://cses.fi). 

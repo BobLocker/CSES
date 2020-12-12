@@ -16,6 +16,7 @@
         <module>IncreasingArray</module>
         <module>Permutations</module>
         <module>NumberSpiral</module>
+        <module>TwoSets</module>
     </modules>
 
     <properties>
