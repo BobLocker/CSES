@@ -11,6 +11,7 @@
    * [Two Sets](./TwoSets)
    * [Bit Strings](./BitStrings)
    * [Trailing Zeros](./TrailingZeros)
+   * [Coin Piles](./CoinPiles)
 
 For more information about Code Submission Evaluation System (CSES)
 see [https://cses.fi](https://cses.fi). 

@@ -19,6 +19,7 @@
         <module>TwoSets</module>
         <module>BitStrings</module>
         <module>TrailingZeros</module>
+        <module>CoinPiles</module>
     </modules>
 
     <properties>
