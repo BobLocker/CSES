@@ -9,6 +9,7 @@
    * [Permutations](./Permutations)
    * [NumberSpiral](./NumberSpiral)
    * [Two Sets](./TwoSets)
+   * [Bit Strings](./BitStrings)
 
 For more information about Code Submission Evaluation System (CSES)
 see [https://cses.fi](https://cses.fi). 

@@ -17,6 +17,7 @@
         <module>Permutations</module>
         <module>NumberSpiral</module>
         <module>TwoSets</module>
+        <module>BitStrings</module>
     </modules>
 
     <properties>
