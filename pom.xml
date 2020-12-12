@@ -23,6 +23,7 @@
         <module>PalindromeReorder</module>
         <module>DistinctNumbers</module>
         <module>Apartments</module>
+        <module>FerrisWheel</module>
     </modules>
 
     <properties>

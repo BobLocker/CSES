@@ -16,7 +16,7 @@
 2. Sorting and Searching
    * [Distinct Numbers](./DistinctNumbers)
    * [Apartments](./Apartments)
-
+   * [Ferris Wheel](./FerrisWheel)
 
 For more information about Code Submission Evaluation System (CSES)
 see [https://cses.fi](https://cses.fi). 
