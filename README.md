@@ -15,6 +15,7 @@
    * [Palindrome Reorder](./PalindromeReorder)
 2. Sorting and Searching
    * [Distinct Numbers](./DistinctNumbers)
+   * [Apartments](./Apartments)
 
 
 For more information about Code Submission Evaluation System (CSES)

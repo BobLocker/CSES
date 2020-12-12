@@ -22,6 +22,7 @@
         <module>CoinPiles</module>
         <module>PalindromeReorder</module>
         <module>DistinctNumbers</module>
+        <module>Apartments</module>
     </modules>
 
     <properties>
