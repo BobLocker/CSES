@@ -17,6 +17,7 @@
    * [Distinct Numbers](./DistinctNumbers)
    * [Apartments](./Apartments)
    * [Ferris Wheel](./FerrisWheel)
+   * [Tasks and Deadlines](./TasksAndDeadlines)
 
 For more information about Code Submission Evaluation System (CSES)
 see [https://cses.fi](https://cses.fi). 

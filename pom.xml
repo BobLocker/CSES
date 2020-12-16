@@ -24,6 +24,7 @@
         <module>DistinctNumbers</module>
         <module>Apartments</module>
         <module>FerrisWheel</module>
+        <module>TasksAndDeadlines</module>
     </modules>
 
     <properties>
